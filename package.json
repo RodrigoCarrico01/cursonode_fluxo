@@ -8,11 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "a"
+    "url": "https://github.com/RodrigoCarrico01/cursonode_fluxo"
   },
   "keywords": [
     "NodeJS"
   ],
   "author": "Rodrigo Martins",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
 }
