@@ -78,7 +78,7 @@ ___________________________________________________________
 
 # PORTUGUÊS
 
-## Curso NODEJS Udemy - Fluxo de Aplicação
+## Curso NodeJS - Fluxo de Aplicação
 
 *Este repositório contém uma série de ficheiros organizados por módulos, onde exploramos diferentes funcionalidades do Node.js, tais como **async/await**, **callbacks**, **promises**, **eventos**, **processos** e **nodemon**. Cada ficheiro tem exemplos práticos que ajudam a entender o funcionamento de cada conceito.*
 
